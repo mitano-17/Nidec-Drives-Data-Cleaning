@@ -1,6 +1,6 @@
 # Nidec-Drives-Data-Cleaning
 
-A repository of Jupyter Notebooks dedicated to cleaning data.
+A repository of Jupyter Notebooks dedicated to cleaning data. The objectives are outlined below:
 
 ## Outline
 ● ❔ Remove Irrelevant Data; </br>
