@@ -3,7 +3,11 @@
 A repository of Jupyter Notebooks dedicated to cleaning data. The objectives are outlined below:
 
 ## Outline
-● ❔ Remove Irrelevant Data; </br>
+● 🗃 Import Libraries; </br>
+● 📤 Upload Dataset; </br>
+● 🔍 Inspect Dataset; </br>
+● 🧼 Clean Dataset; </br>
+&emsp;&emsp;⚬ ✂️ Remove Irrelevant Data</br>
 ● 🕳 Handle Missing or Incomplete Data; </br>
 ● ⚠️ Fix Formatting Issues; </br>
 ● 🔍 Remove Duplicate Records; </br>
