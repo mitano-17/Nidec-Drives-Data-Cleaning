@@ -3,9 +3,9 @@
 A repository of Jupyter Notebooks dedicated to cleaning data. 
 
 ## Notebooks
-●  </br>
-●  </br>
-●  </br>
+● KB Data Cleaning (for Power BI dashboard);</br>
+● Dataset C (Japan Data); and </br>
+● Dataset K (Korea Data)</br>
 
 ## Outline
 ● 🗃 Import Libraries; </br>
