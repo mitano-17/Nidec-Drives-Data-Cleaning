@@ -1,6 +1,6 @@
 # Nidec-Drives-Data-Cleaning
 
-A repository of Jupyter Notebooks dedicated to cleaning data. This also includes csv files and html files that serve as supplementary materials.
+A repository of Jupyter Notebooks dedicated to cleaning data. This also includes csv files and html files that serve as supplementary materials for the Notebooks.
 
 ## Notebooks
 ● KB Data Cleaning (for Power BI dashboard);</br>
